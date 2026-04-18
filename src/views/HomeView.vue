@@ -44,12 +44,40 @@
           </div>
 
           <div class="card game-card">
-            <div class="game-thumb" style="background:linear-gradient(135deg,#f59e0b,#ef4444)">🎰</div>
+            <div class="game-thumb" style="background:linear-gradient(135deg,#f59e0b,#16a34a)">💰</div>
+            <div class="game-info">
+              <h3>ClickFortune</h3>
+              <p>Idle-Clicker mit Prestige-System, Generatoren, Upgrades und globaler Rangliste. Klicke dich ganz nach oben!</p>
+              <div class="game-tags">
+                <span class="tag">Idle Clicker</span>
+                <span class="tag">Leaderboard</span>
+                <span class="tag">Prestige</span>
+              </div>
+              <a href="https://clickerfortune.vercel.app" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
+            </div>
+          </div>
+
+          <div class="card game-card">
+            <div class="game-thumb" style="background:linear-gradient(135deg,#ef4444,#f59e0b)">⚔️</div>
+            <div class="game-info">
+              <h3>ClickerFortune Duell</h3>
+              <p>1-gegen-1 Echtzeit-Klick-Battle mit Matchmaking. Tritt gegen andere Spieler an und beweise wer der schnellste Klicker ist!</p>
+              <div class="game-tags">
+                <span class="tag">PvP</span>
+                <span class="tag">Echtzeit</span>
+                <span class="tag">Clicker</span>
+              </div>
+              <a href="https://clicker-fortune-duell.vercel.app" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
+            </div>
+          </div>
+
+          <div class="card game-card">
+            <div class="game-thumb" style="background:linear-gradient(135deg,#f43f5e,#a855f7)">🎮</div>
             <div class="game-info">
               <h3>Weitere Spiele</h3>
-              <p>Mehr Spiele von OlisGamefactory findest du auf meiner itch.io-Seite.</p>
+              <p>Mehr Spiele von OlisGamefactory findest du auf meiner itch.io-Seite – von kleinen Experimenten bis hin zu Jam-Einreichungen.</p>
               <div class="game-tags">
-                <span class="tag">Verschiedene Genres</span>
+                <span class="tag">Diverses</span>
                 <span class="tag">Indie</span>
               </div>
               <a href="https://olisgamefactory.itch.io" target="_blank" rel="noopener" class="btn btn-outline" style="width:100%;justify-content:center;">🎮 itch.io ansehen</a>

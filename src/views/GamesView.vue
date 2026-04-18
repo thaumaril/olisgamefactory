@@ -29,17 +29,56 @@
         </div>
       </div>
 
+      <!-- ClickFortune -->
+      <div class="card game-card">
+        <div class="game-thumb" style="background:linear-gradient(135deg,#f59e0b,#16a34a)">💰</div>
+        <div class="game-info">
+          <h3>ClickFortune</h3>
+          <p>
+            Click. Earn. Conquer. Ein süchtig machendes Idle-Clicker-Game. Klicke dich zum Reichtum,
+            kaufe Generatoren für passives Einkommen, schalte Upgrades frei und erklimme die
+            globale Rangliste. Mit Prestige-System und Combo-Multiplikator!
+          </p>
+          <div class="game-tags">
+            <span class="tag">Idle Clicker</span>
+            <span class="tag">Leaderboard</span>
+            <span class="tag">Prestige</span>
+            <span class="tag">Multiplayer</span>
+          </div>
+          <a href="https://clickerfortune.vercel.app" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
+        </div>
+      </div>
+
+      <!-- ClickerFortune Duell -->
+      <div class="card game-card">
+        <div class="game-thumb" style="background:linear-gradient(135deg,#ef4444,#f59e0b)">⚔️</div>
+        <div class="game-info">
+          <h3>ClickerFortune Duell</h3>
+          <p>
+            Das Clicker-Duell! Tritt in Echtzeit gegen andere Spieler an und beweise, wessen
+            Klick-Finger schneller ist. Finde über das Matchmaking einen Gegner und kämpfe
+            in einem direkten 1-gegen-1-Klick-Battle.
+          </p>
+          <div class="game-tags">
+            <span class="tag">PvP</span>
+            <span class="tag">Echtzeit</span>
+            <span class="tag">Matchmaking</span>
+            <span class="tag">Clicker</span>
+          </div>
+          <a href="https://clicker-fortune-duell.vercel.app" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
+        </div>
+      </div>
+
       <!-- itch.io -->
       <div class="card game-card">
-        <div class="game-thumb" style="background:linear-gradient(135deg,#f43f5e,#f59e0b)">🎮</div>
+        <div class="game-thumb" style="background:linear-gradient(135deg,#f43f5e,#a855f7)">🎮</div>
         <div class="game-info">
           <h3>Mehr auf itch.io</h3>
           <p>
             Neben den Browser-Games hier findest du auf meiner itch.io-Seite weitere Spiele –
-            darunter Clicker, kleine Experimente und Jam-Einreichungen. Schau doch mal rein!
+            darunter kleine Experimente und Jam-Einreichungen. Schau doch mal rein!
           </p>
           <div class="game-tags">
-            <span class="tag">Clicker</span>
             <span class="tag">Diverse Genres</span>
             <span class="tag">Game Jams</span>
           </div>
