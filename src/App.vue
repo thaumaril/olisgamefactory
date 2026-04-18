@@ -5,10 +5,12 @@
       <RouterView />
     </main>
     <FooterBar />
+    <CookieBanner />
   </div>
 </template>
 
 <script setup>
-import NavBar    from './components/NavBar.vue'
-import FooterBar from './components/FooterBar.vue'
+import NavBar      from './components/NavBar.vue'
+import FooterBar   from './components/FooterBar.vue'
+import CookieBanner from './components/CookieBanner.vue'
 </script>

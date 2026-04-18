@@ -15,7 +15,7 @@
       <h2>2. Allgemeines zur Datenverarbeitung</h2>
       <p>
         Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Diese Datenschutzerklärung
-        informiert Sie darüber, wie wir mit Ihren Daten umgehen, wenn Sie unsere Website besuchen.
+        informiert Sie darüber, wie wir mit Ihren Daten umgehen, wenn Sie meine Website besuchen.
       </p>
       <p>
         Die Nutzung unserer Website ist grundsätzlich ohne Angabe personenbezogener Daten möglich.

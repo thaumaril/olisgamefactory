@@ -13,8 +13,8 @@
           Freizeit kleine Browser-Games, die einfach Spaß machen sollen.
         </p>
         <p>
-          Mein Ziel: Spiele, die ohne Registrierung, ohne Download und ohne versteckte Kosten
-          sofort spielbar sind – auf dem PC genauso wie auf dem Smartphone.
+          Mein Ziel: Spiele, die meistens ohne Download und ohne versteckte Kosten
+          sofort spielbar sind – auf dem PC und so oft wie möglich auf dem Smartphone.
         </p>
       </div>
     </div>
@@ -29,9 +29,8 @@
           <li>Vue 3 + Vite</li>
           <li>HTML5 Canvas API</li>
           <li>Node.js / Serverless Functions</li>
-          <li>Firebase (Datenbank)</li>
           <li>Vercel (Hosting)</li>
-          <li>Godot Engine (für Desktop-Projekte)</li>
+          <li>Godot Engine </li>
         </ul>
       </div>
 
@@ -39,10 +38,10 @@
         <h3>🎯 Mein Ansatz</h3>
         <p style="color:var(--text-dim);margin-bottom:12px;">Was mir bei der Entwicklung wichtig ist:</p>
         <ul style="color:var(--text-dim);padding-left:20px;line-height:2;">
-          <li>Sofort spielbar – kein Login</li>
+          <li>Sofort spielbar</li>
           <li>Mobile-first Design</li>
           <li>Faire Monetarisierung</li>
-          <li>Echter Spielspaß vor Grinding</li>
+          <li>Echter Spielspaß für zwischendurch</li>
           <li>Sauberer, wartbarer Code</li>
           <li>Regelmäßige Updates</li>
         </ul>
@@ -61,12 +60,6 @@
 
     <div class="card" style="margin-bottom:40px;">
       <h2 style="margin-bottom:16px;">🌱 Wie alles begann</h2>
-      <p style="color:var(--text-dim);">
-        OlisGamefactory startete als persönliches Lernprojekt. Ich wollte verstehen, wie man
-        ein Browser-Game von Grund auf baut – Physik, Kollisionen, Sound, Animationen, alles selbst.
-        Herausgekommen ist <strong>Springo</strong>, ein Doodle-Jump-inspiriertes Spiel, das
-        mittlerweile eine echte Highscore-Community hat.
-      </p>
       <p style="color:var(--text-dim);">
         Was als Lernprojekt begann, ist zu einer echten Leidenschaft geworden. Heute arbeite ich
         kontinuierlich an neuen Spielen, Verbesserungen und Features – alles in der Freizeit,

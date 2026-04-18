@@ -5,7 +5,7 @@
       <div class="hero-badge">🎮 Indie Game Developer</div>
       <h1>Willkommen bei<br><span style="color:var(--purple-l)">OlisGamefactory</span></h1>
       <p>
-        Hier entstehen kostenlose Browser-Games mit Herzblut. Kein Download, kein Login –
+        Hier entstehen kostenlose Browser-Games mit Herzblut. Kein Download,
         einfach auf Spielen klicken und loslegen.
       </p>
       <div class="hero-btns">
@@ -47,7 +47,7 @@
             <div class="game-thumb" style="background:linear-gradient(135deg,#f59e0b,#ef4444)">🎰</div>
             <div class="game-info">
               <h3>Weitere Spiele</h3>
-              <p>Mehr Spiele von OlisGamefactory findest du auf meiner itch.io-Seite – von Clickern bis hin zu kleinen Abenteuern.</p>
+              <p>Mehr Spiele von OlisGamefactory findest du auf meiner itch.io-Seite.</p>
               <div class="game-tags">
                 <span class="tag">Verschiedene Genres</span>
                 <span class="tag">Indie</span>
@@ -67,13 +67,12 @@
           <div>
             <h3>Oliver Winkelmann</h3>
             <p>
-              Ich bin ein leidenschaftlicher Hobbyentwickler aus Deutschland. In meiner Freizeit
-              entwickle ich kleine Browser-Games, die einfach Spaß machen sollen – ohne Werbung
-              im Weg (außer etwas Unterstützung über AdSense), ohne lästige Registrierung und
-              ohne Kosten.
+              Ich bin ein leidenschaftlicher Softwareentwickler aus Deutschland. In meiner Freizeit
+              entwickle ich kleine Browser-Games, die einfach Spaß machen sollen – ohne gezwungene Werbung
+              im Weg und ohne Kosten.
             </p>
             <p>
-              Meine Werkzeuge: JavaScript, Vue 3, HTML5 Canvas, und eine ordentliche Portion
+              Meine Werkzeuge: Typescript, JavaScript, Vue 3, HTML5 Canvas, Godot-Engine und eine ordentliche Portion
               Kaffee. ☕
             </p>
             <RouterLink to="/about" class="btn btn-outline">Mehr über mich →</RouterLink>

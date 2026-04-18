@@ -3,7 +3,7 @@
     <div style="margin-bottom:40px;">
       <h1>🕹️ Alle Spiele</h1>
       <p style="color:var(--text-dim);margin-top:8px;">
-        Kostenlose Browser-Games von OlisGamefactory – kein Download, kein Login, einfach spielen.
+        Kostenlose Browser-Games von OlisGamefactory – kein Download, einfach spielen.
       </p>
     </div>
 
