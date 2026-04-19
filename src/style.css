@@ -260,6 +260,5 @@ p  { margin-bottom: 12px; }
   .about-box { grid-template-columns: 1fr; }
   .avatar { width: 72px; height: 72px; font-size: 2rem; }
   .stats-bar { gap: 28px; }
-  .nav-links a:not(.nav-kofi) { display: none; }
   .kofi-box { padding: 28px 20px; }
 }

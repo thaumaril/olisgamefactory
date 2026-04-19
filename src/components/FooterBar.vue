@@ -17,3 +17,21 @@
 <script setup>
 const year = new Date().getFullYear()
 </script>
+
+<style scoped>
+@media (max-width: 640px) {
+  .footer-inner {
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    text-align: center;
+  }
+  .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 20px;
+  }
+}
+</style>
+
