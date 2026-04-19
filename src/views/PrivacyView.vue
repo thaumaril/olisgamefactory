@@ -140,6 +140,10 @@
         Zur Ausübung Ihrer Rechte oder bei Fragen zum Datenschutz wenden Sie sich bitte per
         E-Mail an <a href="mailto:Olisgamefactory@outlook.com">Olisgamefactory@outlook.com</a>.
         Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
+        Zuständige Aufsichtsbehörde ist das
+        <strong>Bayerische Landesamt für Datenschutzaufsicht (BayLDA)</strong>,
+        Promenade 27, 91522 Ansbach,
+        <a href="https://www.lda.bayern.de" target="_blank" rel="noopener">www.lda.bayern.de</a>.
       </p>
 
       <h2>10. Änderungen dieser Datenschutzerklärung</h2>

@@ -9,7 +9,7 @@
             Wir nutzen Cookies für den technischen Betrieb und – sofern du zustimmst –
             für personalisierte Werbung über Google AdSense.
             Mehr dazu in unserer
-            <RouterLink to="/privacy" @click="accept">Datenschutzerklärung</RouterLink>.
+            <RouterLink to="/privacy">Datenschutzerklärung</RouterLink>.
           </div>
         </div>
         <div class="cookie-btns">
@@ -24,12 +24,13 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 
+const emit = defineEmits(['consent-given'])
+
 const visible = ref(false)
 const STORAGE_KEY = 'ogf_cookie_consent'
 
 onMounted(() => {
   if (!localStorage.getItem(STORAGE_KEY)) {
-    // Small delay so it doesn't flash before page renders
     setTimeout(() => { visible.value = true }, 600)
   }
 })
@@ -37,6 +38,7 @@ onMounted(() => {
 function accept() {
   localStorage.setItem(STORAGE_KEY, 'all')
   visible.value = false
+  emit('consent-given')
 }
 
 function decline() {
