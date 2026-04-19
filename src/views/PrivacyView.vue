@@ -9,7 +9,10 @@
         Verantwortlicher für die Datenverarbeitung auf dieser Website ist:<br>
         <strong>Oliver Winkelmann</strong><br>
         OlisGamefactory<br>
-        Deutschland
+        Stettiner Straße 10<br>
+        91174 Spalt<br>
+        Deutschland<br>
+        E-Mail: <a href="mailto:Olisgamefactory@outlook.com">Olisgamefactory@outlook.com</a>
       </p>
 
       <h2>2. Allgemeines zur Datenverarbeitung</h2>
@@ -72,13 +75,46 @@
         globale Rangliste eintragen.
       </p>
 
-      <h2>7. Globale Highscore-Liste (Springo)</h2>
+      <h2>7. Spielerdaten in Online-Spielen (Firebase)</h2>
+      <p>
+        Einige unserer Spiele bieten Online-Funktionen (globale Ranglisten, Echtzeit-Multiplayer).
+        Dafür nutzen wir <strong>Firebase</strong> (Google LLC, 1600 Amphitheatre Parkway, Mountain
+        View, CA 94043, USA), insbesondere Firebase Firestore und Firebase Realtime Database.
+        Google LLC ist dabei als Auftragsverarbeiter gemäß Art. 28 DSGVO tätig.
+        Weitere Informationen: <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">firebase.google.com/support/privacy</a>.
+      </p>
+
+      <h3>Springo – Globale Highscore-Liste</h3>
       <p>
         Wenn Sie in Springo Ihren Highscore eintragen, werden Ihr Spielername (3 Zeichen,
-        von Ihnen frei gewählt) sowie Ihr Score an unseren Server übermittelt und in einer
-        Datenbank (Firebase Firestore, Google LLC) gespeichert. Eine Zuordnung zu Ihrer Person
-        ist durch den frei wählbaren Kurznamen nicht möglich. Rechtsgrundlage ist Ihre
-        ausdrückliche Einwilligung durch die freiwillige Eintragung (Art. 6 Abs. 1 lit. a DSGVO).
+        frei gewählt) sowie Ihr Score an unsere Server übermittelt und in Firebase Firestore
+        gespeichert. Eine Zuordnung zu Ihrer Person ist durch den frei wählbaren Kurznamen
+        nicht möglich. Rechtsgrundlage ist Ihre ausdrückliche Einwilligung durch die freiwillige
+        Eintragung (Art. 6 Abs. 1 lit. a DSGVO).
+      </p>
+
+      <h3>ClickFortune – Rangliste</h3>
+      <p>
+        ClickFortune speichert Spielstand, Prestige-Level und einen frei gewählten Spielernamen
+        in Firebase Firestore für die globale Rangliste. Diese Daten werden nur gespeichert,
+        wenn Sie sich aktiv in die Rangliste eintragen. Rechtsgrundlage ist Ihre Einwilligung
+        (Art. 6 Abs. 1 lit. a DSGVO).
+      </p>
+
+      <h3>ClickerFortune Duell – Echtzeit-Matchmaking</h3>
+      <p>
+        ClickerFortune Duell nutzt Firebase Realtime Database für das Echtzeit-Matchmaking und
+        den Spielablauf. Dabei werden temporäre Sitzungsdaten (zufällig generierte Sitzungs-ID,
+        Spielzüge, Spielergebnis) übertragen und für die Dauer des Spiels zwischengespeichert.
+        Nach Beendigung des Spiels werden diese Daten automatisch gelöscht. Rechtsgrundlage ist
+        Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung zur Bereitstellung des Spiels).
+      </p>
+
+      <p>
+        Zur Löschung Ihrer gespeicherten Spielerdaten (z. B. Highscore-Einträge) wenden Sie sich
+        bitte per E-Mail an
+        <a href="mailto:Olisgamefactory@outlook.com">Olisgamefactory@outlook.com</a>
+        mit dem Betreff „Datenlöschung" und Ihrem Spielernamen.
       </p>
 
       <h2>8. Ko-fi</h2>
@@ -101,8 +137,8 @@
         <li>Widerruf einer Einwilligung mit Wirkung für die Zukunft</li>
       </ul>
       <p>
-        Zur Ausübung Ihrer Rechte oder bei Fragen zum Datenschutz wenden Sie sich bitte über
-        Ko-fi (<a href="https://ko-fi.com/olisgamefactory" target="_blank" rel="noopener">ko-fi.com/olisgamefactory</a>) an uns.
+        Zur Ausübung Ihrer Rechte oder bei Fragen zum Datenschutz wenden Sie sich bitte per
+        E-Mail an <a href="mailto:Olisgamefactory@outlook.com">Olisgamefactory@outlook.com</a>.
         Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
       </p>
 
