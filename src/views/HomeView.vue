@@ -39,7 +39,7 @@
                 <span class="tag">Highscores</span>
                 <span class="tag">Mobile</span>
               </div>
-              <a href="https://springo-orpin-nine.vercel.app" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
+              <a href="https://springo.olisgamefactory.de" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
             </div>
           </div>
 
@@ -53,7 +53,7 @@
                 <span class="tag">Leaderboard</span>
                 <span class="tag">Prestige</span>
               </div>
-              <a href="https://clickerfortune.vercel.app" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
+              <a href="https://clickerfortune.olisgamefactory.de" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
             </div>
           </div>
 
@@ -67,7 +67,7 @@
                 <span class="tag">Echtzeit</span>
                 <span class="tag">Clicker</span>
               </div>
-              <a href="https://clicker-fortune-duell.vercel.app" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
+              <a href="https://clickerfortune-duell.olisgamefactory.de" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center;">▶ Jetzt spielen</a>
             </div>
           </div>
 

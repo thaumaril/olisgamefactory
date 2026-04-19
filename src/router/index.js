@@ -1,17 +1,19 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView    from '../views/HomeView.vue'
-import GamesView   from '../views/GamesView.vue'
-import AboutView   from '../views/AboutView.vue'
-import PrivacyView from '../views/PrivacyView.vue'
+import HomeView      from '../views/HomeView.vue'
+import GamesView     from '../views/GamesView.vue'
+import AboutView     from '../views/AboutView.vue'
+import PrivacyView   from '../views/PrivacyView.vue'
+import ImpressumView from '../views/ImpressumView.vue'
 
 export const router = createRouter({
   history: createWebHistory(),
   scrollBehavior: () => ({ top: 0 }),
   routes: [
-    { path: '/',        component: HomeView,    meta: { title: 'OlisGamefactory – Indie Browser Games' } },
-    { path: '/games',   component: GamesView,   meta: { title: 'Alle Spiele – OlisGamefactory' } },
-    { path: '/about',   component: AboutView,   meta: { title: 'Über mich – OlisGamefactory' } },
-    { path: '/privacy', component: PrivacyView, meta: { title: 'Datenschutzerklärung – OlisGamefactory' } },
+    { path: '/',          component: HomeView,       meta: { title: 'OlisGamefactory – Indie Browser Games' } },
+    { path: '/games',     component: GamesView,      meta: { title: 'Alle Spiele – OlisGamefactory' } },
+    { path: '/about',     component: AboutView,      meta: { title: 'Über mich – OlisGamefactory' } },
+    { path: '/privacy',   component: PrivacyView,    meta: { title: 'Datenschutzerklärung – OlisGamefactory' } },
+    { path: '/impressum', component: ImpressumView,  meta: { title: 'Impressum – OlisGamefactory' } },
   ],
 })
 

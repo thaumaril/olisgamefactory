@@ -8,6 +8,7 @@
         <a href="https://olisgamefactory.itch.io" target="_blank" rel="noopener">itch.io</a>
         <a href="https://ko-fi.com/olisgamefactory" target="_blank" rel="noopener">Ko-fi</a>
         <RouterLink to="/privacy">Datenschutz</RouterLink>
+        <RouterLink to="/impressum">Impressum</RouterLink>
       </div>
     </div>
   </footer>
