@@ -7,17 +7,14 @@
       <h2>Verantwortlich für den Inhalt</h2>
       <p>
         <strong>Oliver Winkelmann</strong><br>
-        <!-- TODO: Straße und Hausnummer eintragen -->
-        [Straße] [Hausnummer]<br>
-        <!-- TODO: PLZ und Ort eintragen -->
-        [PLZ] [Ort]<br>
+        Stettiner Straße 10<br>
+        91174 Spalt<br>
         Deutschland
       </p>
 
       <h2>Kontakt</h2>
       <p>
-        <!-- TODO: E-Mail-Adresse eintragen -->
-        E-Mail: <a href="mailto:[E-Mail-Adresse]">[E-Mail-Adresse]</a>
+        E-Mail: <a href="mailto:Olisgamefactory@outlook.com">Olisgamefactory@outlook.com</a>
       </p>
 
       <h2>Hinweis zur Online-Streitbeilegung</h2>
