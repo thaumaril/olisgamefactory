@@ -6,7 +6,7 @@
       <div class="avatar" style="width:120px;height:120px;font-size:3.2rem;">🎮</div>
       <div>
         <h2>Oliver Winkelmann</h2>
-        <p style="color:var(--purple-l);margin-bottom:12px;font-weight:600;">Hobbyentwickler · OlisGamefactory</p>
+        <p style="color:var(--purple-l);margin-bottom:12px;font-weight:600;">Softwareentwickler · OlisGamefactory</p>
         <p>
           Hallo! Ich bin Oliver, ein leidenschaftlicher Softwareentwickler und Hobby-Game-Developer
           aus Deutschland. Unter dem Namen <strong>OlisGamefactory</strong> entwickle ich in meiner
